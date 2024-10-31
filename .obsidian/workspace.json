@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "f1b82517da842e0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d33a249773b69375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a305b49977de6a70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Offensive/SQL Injection/202410232013 SQL Injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202410232013 SQL Injection"
+            }
+          },
+          {
+            "id": "f50fa504b09d6c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232043 <SQLi> Union attacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202410232043 <SQLi> Union attacks"
+            }
+          },
+          {
+            "id": "a287eac05641ed1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410291417 General Cybersecurity Threats, Attacks and State of Art.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202410291417 General Cybersecurity Threats, Attacks and State of Art"
+            }
+          },
+          {
+            "id": "71d57bd211d3c33b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202410301853 WiFi Authentication Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202410301853 WiFi Authentication Types"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1700702398704c03",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb4d237acd1049a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c644e804b47d46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5acbe05da4f390ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "*CIA",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a69e38501d3846d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3442d9263bafd7b5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 452.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9ddc0dda650e424d",
+    "type": "split",
+    "children": [
+      {
+        "id": "86d196f226b39436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "856397bfdf99608c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Web-Security/202410171523 Information Gathering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 202410171523 Information Gathering"
+            }
+          },
+          {
+            "id": "2406da18ffbd5713",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Web-Security/202410171523 Information Gathering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 202410171523 Information Gathering"
+            }
+          },
+          {
+            "id": "5ea5ef1f1500a8b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0489b0f5c6411ff5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ef53f42a9c14d5ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Web-Security/202410171523 Information Gathering.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 202410171523 Information Gathering"
+            }
+          },
+          {
+            "id": "7844b0660b0b266e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "71d57bd211d3c33b",
+  "lastOpenFiles": [
+    "99 - Meta/attachments/Pasted image 20241030191136.png",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410301455 CIA Triade, Parkerian Hexade, Authenticity and Non-repudiation.md",
+    "202410301853 WiFi Authentication Types.md",
+    "03 - Resources/Cybersecurity/Offensive/Wifi Pentesitng",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410201354 Introduction to Cybersec.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410291417 General Cybersecurity Threats, Attacks and State of Art.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410211607 Cybersecurity Manager Role.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232043 <SQLi> Union attacks.md",
+    "06 - Daily/20241029.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232042 <SQLi> Subverting application logic.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/202410232013 SQL Injection.md",
+    "03 - Resources/Cybersecurity/Web-Security/202410270031 Web Server Vulnerabilities.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232041 <SQLi> Retrieving hidden data.md",
+    "99 - Meta/attachments/Pasted image 20241029140719.png",
+    "99 - Meta/attachments/Pasted image 20241029140416.png",
+    "03 - Resources/Cybersecurity/Web-Security/202410191642 Web Server Enumeration.md",
+    "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410232128 Chemistry.md",
+    "03 - Resources/Linux Fundamentals/Workflow/202410242224 Filter Contents.md",
+    "03 - Resources/Cybersecurity/Web-Security/202410171523 Information Gathering.md",
+    "03 - Resources/Linux Fundamentals/Workflow/202410222240 Find Files and Dirs.md",
+    "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410101705 Oopsie HTB.md",
+    "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410081856 Archetype HTB.md",
+    "03 - Resources/Linux Fundamentals/Workflow",
+    "03 - Resources/Linux Fundamentals/The Shell",
+    "03 - Resources/Linux Fundamentals/Introduction",
+    "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410202019 Locked Away.md",
+    "06 - Daily/20241024.md",
+    "202410241927 Chemistry.md",
+    "06 - Daily/20240922.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232044 <SQLi> Blind SQLi.md",
+    "03 - Resources/Linux Fundamentals/Introduction/202410201550 Linux Structure.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection",
+    "03 - Resources/Linux Fundamentals/Workflow/202410231359 File Descriptors and Redirection.md",
+    "03 - Resources/Cybersecurity/Networking/TCPIP",
+    "99 - Meta/attachments/Pasted image 20241022170535.png",
+    "99 - Meta/attachments/Pasted image 20241022170511.png",
+    "99 - Meta/attachments/Pasted image 20241022170458.png",
+    "03 - Resources/Cybersecurity/Tooling/Gobuster",
+    "99 - Meta/attachments/Pasted image 20241020183617.png",
+    "99 - Meta/attachments/Pasted image 20241020182641.png",
+    "99 - Meta/attachments/Pasted image 20241020181114.png",
+    "99 - Meta/attachments",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management",
+    "Pasted image 20241016225808.png",
+    "Pasted image 20241016211800.png"
+  ]
+}
