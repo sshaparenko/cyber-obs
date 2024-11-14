@@ -72,6 +72,22 @@ There are two broad categories for threat events:
 	- Exploiting multitenancy in cloud environment
 	- Launching zero-day exploits
 
-5. **Conduct and Attack**
+5. **Conduct and Attack:** The adversary coordinates attack tools or performs activities that interfere with organizational functions. Potential methods of attack include:
+	- Communication interception or wireless jamming attack
+	- Denial-of-service (DoS) or distributed denial of service (DDoS)
+	- Remote interference with or physical attack on organizational facilities or infrastructures
+	- Session-hijacking or MITM attack
+6. **Achieve Results:** The adversary causes an adverse impact, which may include:
+	- Obtaining unauthorized access to systems and/or sensitive information
+	- Degrading organizational services or capabilities
+	- Creating, corrupting or deleting critical data
+7. **Maintain a Presence or Set of Capabilities:** The adversary continues to exploit and compromise the system using the following techniques: 
+	- Obfuscating adversary actions or interfering with intrusion detection systems (IDS)
+	- Adapting cyberattacks in response to organizational security measures
+8. **Coordinate a Campaign:** The adversary coordinates a campaign against the organization that may involve the following measures:
+	- Multi-staged attacks
+	- Internal and external attacks
+	- Widespread and adaptive attacks
 
 59 min
+

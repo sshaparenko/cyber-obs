@@ -8,63 +8,88 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a305b49977de6a70",
+            "id": "3f1fc46a2b4fa03e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Cybersecurity/Offensive/SQL Injection/202410232013 SQL Injection.md",
+                "file": "03 - Resources/Cybersecurity/Networking/202410071209 Networking Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410232013 SQL Injection"
+              "title": "202410071209 Networking Models"
             }
           },
           {
-            "id": "f50fa504b09d6c1c",
+            "id": "f072711961a8cb3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232043 <SQLi> Union attacks.md",
+                "file": "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410101705 Oopsie HTB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410232043 <SQLi> Union attacks"
+              "title": "202410101705 Oopsie HTB"
             }
           },
           {
-            "id": "a287eac05641ed1b",
+            "id": "b9ee739f200900e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410291417 General Cybersecurity Threats, Attacks and State of Art.md",
+                "file": "03 - Resources/Cybersecurity/Web-Security/Session Security/202411091644 Who can manage HTTP Session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410291417 General Cybersecurity Threats, Attacks and State of Art"
+              "title": "202411091644 Who can manage HTTP Session"
             }
           },
           {
-            "id": "71d57bd211d3c33b",
+            "id": "a7ce97029fecf90f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202410301853 WiFi Authentication Types.md",
+                "file": "03 - Resources/Cybersecurity/Web-Security/Session Security/202411091647 Session Locking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410301853 WiFi Authentication Types"
+              "title": "202411091647 Session Locking"
+            }
+          },
+          {
+            "id": "3ae4b363093cc692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/6. Cryptography, Cryptology and Cryptanalysis. Encryption and Hashing/202411011453 Cryptography, Cryptology and Cryptanalysis. Encryption and Hashing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202411011453 Cryptography, Cryptology and Cryptanalysis. Encryption and Hashing"
+            }
+          },
+          {
+            "id": "a6740191195864f3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ED-202411011435.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ED-202411011435.excalidraw"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "*CIA",
+                "query": "IPS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5,
+    "width": 376.5,
     "collapsed": true
   },
   "right": {
@@ -247,53 +272,53 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "71d57bd211d3c33b",
+  "active": "3f1fc46a2b4fa03e",
   "lastOpenFiles": [
-    "99 - Meta/attachments/Pasted image 20241030191136.png",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410301455 CIA Triade, Parkerian Hexade, Authenticity and Non-repudiation.md",
-    "202410301853 WiFi Authentication Types.md",
-    "03 - Resources/Cybersecurity/Offensive/Wifi Pentesitng",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410201354 Introduction to Cybersec.md",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410291417 General Cybersecurity Threats, Attacks and State of Art.md",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410211607 Cybersecurity Manager Role.md",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232043 <SQLi> Union attacks.md",
-    "06 - Daily/20241029.md",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232042 <SQLi> Subverting application logic.md",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection/202410232013 SQL Injection.md",
-    "03 - Resources/Cybersecurity/Web-Security/202410270031 Web Server Vulnerabilities.md",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232041 <SQLi> Retrieving hidden data.md",
-    "99 - Meta/attachments/Pasted image 20241029140719.png",
-    "99 - Meta/attachments/Pasted image 20241029140416.png",
-    "03 - Resources/Cybersecurity/Web-Security/202410191642 Web Server Enumeration.md",
-    "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410232128 Chemistry.md",
-    "03 - Resources/Linux Fundamentals/Workflow/202410242224 Filter Contents.md",
-    "03 - Resources/Cybersecurity/Web-Security/202410171523 Information Gathering.md",
-    "03 - Resources/Linux Fundamentals/Workflow/202410222240 Find Files and Dirs.md",
     "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410101705 Oopsie HTB.md",
     "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410081856 Archetype HTB.md",
-    "03 - Resources/Linux Fundamentals/Workflow",
-    "03 - Resources/Linux Fundamentals/The Shell",
-    "03 - Resources/Linux Fundamentals/Introduction",
-    "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410202019 Locked Away.md",
-    "06 - Daily/20241024.md",
-    "202410241927 Chemistry.md",
-    "06 - Daily/20240922.md",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232044 <SQLi> Blind SQLi.md",
-    "03 - Resources/Linux Fundamentals/Introduction/202410201550 Linux Structure.md",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection",
-    "03 - Resources/Linux Fundamentals/Workflow/202410231359 File Descriptors and Redirection.md",
-    "03 - Resources/Cybersecurity/Networking/TCPIP",
-    "99 - Meta/attachments/Pasted image 20241022170535.png",
-    "99 - Meta/attachments/Pasted image 20241022170511.png",
-    "99 - Meta/attachments/Pasted image 20241022170458.png",
-    "03 - Resources/Cybersecurity/Tooling/Gobuster",
-    "99 - Meta/attachments/Pasted image 20241020183617.png",
-    "99 - Meta/attachments/Pasted image 20241020182641.png",
-    "99 - Meta/attachments/Pasted image 20241020181114.png",
-    "99 - Meta/attachments",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management",
-    "Pasted image 20241016225808.png",
-    "Pasted image 20241016211800.png"
+    "06 - Daily/20241110.md",
+    "03 - Resources/Cybersecurity/Networking/202410071209 Networking Models.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/Session attacks/Session Hijacking Mitigation.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/202411091647 Session Locking.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/202411091644 Who can manage HTTP Session.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/Session Storages/LAMP LNMP LNAP Session Storage.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/Session Storages/Client Session Storages.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/Session attacks/Session Fixation Attack.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/Session attacks/Session Hijacking.md",
+    "03 - Resources/Cybersecurity/Offensive/WEB/XSS Attack/202410312249 Reflected XSS.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/HSTH.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/Session attacks",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/Session Storages",
+    "ED-202411011435.excalidraw.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/session locking.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security/Session Identifier SID.md",
+    "03 - Resources/Cybersecurity/Documentation & Reporting/202411030823 Notetaking & Organization.md",
+    "03 - Resources/Cybersecurity/Web-Security/Session Security",
+    "03 - Resources/Cybersecurity/Web-Security/Untitled.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Virtual Private Network (VPN)/VPN Protocols/L2TP.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Virtual Private Network (VPN)/VPN Protocols/IPsec.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Virtual Private Network (VPN)/VPN Protocols/PPTP.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/5. Security Controls; Sefeguards and Countermeasures/202411011346 Security Controls; Sefeguards and Countermeasures.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Virtual Private Network (VPN)/VPN Protocols",
+    "202411081345 Hard and Soft Token.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Network Security Devices",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Network Fragmentation",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Virtual Private Network (VPN)",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Network Security Protocols",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Network Threats",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks",
+    "202411081321 Registration Authority.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Certification, Validation and Registration Authorities/202411081312 Certification, Validation and Registration Authorities.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Certification, Validation and Registration Authorities/202411081317 Validation Authority.md",
+    "99 - Meta/attachments/Pasted image 20241102152651.png",
+    "99 - Meta/attachments/Pasted image 20241102152550.png",
+    "99 - Meta/attachments/Pasted image 20241101144822.png",
+    "99 - Meta/attachments/Pasted image 20241101144559.png",
+    "99 - Meta/attachments/Pasted image 20241101144226.png",
+    "99 - Meta/attachments/Pasted image 20241101143957.png",
+    "99 - Meta/attachments/Pasted image 20241101143739.png",
+    "99 - Meta/attachments/Pasted image 20241101143344.png",
+    "99 - Meta/attachments/Pasted image 20241101143314.png",
+    "99 - Meta/attachments/Pasted image 20241101143300.png"
   ]
 }

