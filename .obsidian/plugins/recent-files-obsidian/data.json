@@ -5,6 +5,10 @@
       "path": "03 - Resources/Cybersecurity/Networking/202410071209 Networking Models.md"
     },
     {
+      "basename": "20241114",
+      "path": "06 - Daily/20241114.md"
+    },
+    {
       "basename": "202410101705 Oopsie HTB",
       "path": "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410101705 Oopsie HTB.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Digital Certificates",
       "path": "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Public Key Infrastructure/Digital Certificates.md"
-    },
-    {
-      "basename": "20241103",
-      "path": "06 - Daily/20241103.md"
     }
   ],
   "omittedPaths": [],

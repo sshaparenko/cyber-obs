@@ -151,7 +151,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -274,10 +275,11 @@
   },
   "active": "3f1fc46a2b4fa03e",
   "lastOpenFiles": [
+    "06 - Daily/20241114.md",
+    "03 - Resources/Cybersecurity/Networking/202410071209 Networking Models.md",
     "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410101705 Oopsie HTB.md",
     "03 - Resources/Cybersecurity/HTB/Labs/Basics/202410081856 Archetype HTB.md",
     "06 - Daily/20241110.md",
-    "03 - Resources/Cybersecurity/Networking/202410071209 Networking Models.md",
     "03 - Resources/Cybersecurity/Web-Security/Session Security/Session attacks/Session Hijacking Mitigation.md",
     "03 - Resources/Cybersecurity/Web-Security/Session Security/202411091647 Session Locking.md",
     "03 - Resources/Cybersecurity/Web-Security/Session Security/202411091644 Who can manage HTTP Session.md",
@@ -309,7 +311,6 @@
     "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/10. Securing the Networks",
     "202411081321 Registration Authority.md",
     "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Certification, Validation and Registration Authorities/202411081312 Certification, Validation and Registration Authorities.md",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/7. PKI, Electronic Signatures, Public-key Certificates/Certification, Validation and Registration Authorities/202411081317 Validation Authority.md",
     "99 - Meta/attachments/Pasted image 20241102152651.png",
     "99 - Meta/attachments/Pasted image 20241102152550.png",
     "99 - Meta/attachments/Pasted image 20241101144822.png",
