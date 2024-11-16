@@ -1,0 +1,1 @@
+DNS mail exchange (MX) record directs email to a mail server. The MX record indicates how email messages should be routed in accordance with the [[202410172025 SMTP|SMTP]] 
