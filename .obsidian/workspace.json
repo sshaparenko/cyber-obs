@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "f1b82517da842e0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d33a249773b69375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6740191195864f3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f7f3c2dc3c5c433c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Linux Fundamentals/System Management/5. Network Services/202411151349 Web Server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202411151349 Web Server"
+            }
+          },
+          {
+            "id": "b9abb3595bf22c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "5c7b34194ccdcb55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management/202411151142 SysV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202411151142 SysV"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1700702398704c03",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb4d237acd1049a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c644e804b47d46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5acbe05da4f390ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a69e38501d3846d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3442d9263bafd7b5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.5
+  },
+  "right": {
+    "id": "9ddc0dda650e424d",
+    "type": "split",
+    "children": [
+      {
+        "id": "86d196f226b39436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "856397bfdf99608c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Web-Security/202410171523 Information Gathering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 202410171523 Information Gathering"
+            }
+          },
+          {
+            "id": "2406da18ffbd5713",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Web-Security/202410171523 Information Gathering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 202410171523 Information Gathering"
+            }
+          },
+          {
+            "id": "5ea5ef1f1500a8b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0489b0f5c6411ff5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ef53f42a9c14d5ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Web-Security/202410171523 Information Gathering.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 202410171523 Information Gathering"
+            }
+          },
+          {
+            "id": "7844b0660b0b266e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "f7f3c2dc3c5c433c",
+  "lastOpenFiles": [
+    "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management/202411151127 systemd.md",
+    "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management/202411151130 systemctl.md",
+    "06 - Daily/20241116.md",
+    "03 - Resources/Cybersecurity/Web-Security/Untitled.md",
+    "03 - Resources/Cybersecurity/Web-Security/202410270031 Web Server Vulnerabilities.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232044 <SQLi> Blind SQLi.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232041 <SQLi> Retrieving hidden data.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232043 <SQLi> Union attacks.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232042 <SQLi> Subverting application logic.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/202410232013 SQL Injection.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410301455 CIA Triade, Parkerian Hexade, Authenticity and Non-repudiation.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410291417 General Cybersecurity Threats, Attacks and State of Art.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410211607 Cybersecurity Manager Role.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410201354 Introduction to Cybersec.md",
+    "202411081345 Hard and Soft Token.md",
+    "202411081321 Registration Authority.md",
+    "202411030950 Inter-Disciplinary Assessment.md",
+    "03 - Resources/Linux Fundamentals/System Management/202411011750 Package Management.md",
+    "03 - Resources/Linux Fundamentals/System Management/202411011736 User Management.md",
+    "Projects.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/12. Intro into OS Hardening/202411151653 Cyber Kill Chain.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/12. Intro into OS Hardening/202411151658 MITRE ATT&CK.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/12. Intro into OS Hardening",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/12. Intro into OS Hardening/202411151656 Cyber Attack Lifecycle.md",
+    "99 - Meta/attachments/Pasted image 20241115165847.png",
+    "99 - Meta/attachments/Pasted image 20241115165600.png",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/11. System Hardening/202411151558 System hardening checklist.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/11. System Hardening/202411151548 System Hardening.md",
+    "03 - Resources/Linux Fundamentals/System Management/5. Network Services/202411151349 Web Server.md",
+    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/11. System Hardening",
+    "03 - Resources/Linux Fundamentals/System Management/5. Network Services",
+    "03 - Resources/Linux Fundamentals/System Management/4. Task Scheduling",
+    "03 - Resources/Linux Fundamentals/System Management/1. User Management",
+    "03 - Resources/Linux Fundamentals/System Management/2. Package Management",
+    "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management",
+    "03 - Resources/Strategies and Management",
+    "99 - Meta/attachments/Pasted image 20241102152651.png",
+    "99 - Meta/attachments/Pasted image 20241102152550.png",
+    "99 - Meta/attachments/Pasted image 20241101144822.png",
+    "99 - Meta/attachments/Pasted image 20241101144559.png",
+    "99 - Meta/attachments/Pasted image 20241101144226.png",
+    "99 - Meta/attachments/Pasted image 20241101143957.png",
+    "99 - Meta/attachments/Pasted image 20241101143739.png",
+    "99 - Meta/attachments/Pasted image 20241101143344.png"
+  ]
+}
