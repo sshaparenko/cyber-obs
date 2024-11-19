@@ -2,7 +2,7 @@
 date: 2024-10-17T15:23
 tags:
   - "#cybersecurity"
-  - "#SET"
+  - web-security
 cssclasses:
   - pen-green
   - page-grid

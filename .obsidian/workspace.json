@@ -8,59 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6740191195864f3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f7f3c2dc3c5c433c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Linux Fundamentals/System Management/5. Network Services/202411151349 Web Server.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202411151349 Web Server"
-            }
-          },
-          {
-            "id": "b9abb3595bf22c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projects"
-            }
-          },
-          {
             "id": "5c7b34194ccdcb55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management/202411151142 SysV.md",
+                "file": "03 - Resources/Cybersecurity/Web-Security/XSS/202411161958 XSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202411151142 SysV"
+              "title": "202411161958 XSS"
+            }
+          },
+          {
+            "id": "8e2a9c4fd2ddd5f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Web-Security/XSS/Types of XSS/Reflected XSS/202411162002 Reflected XSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202411162002 Reflected XSS"
+            }
+          },
+          {
+            "id": "456f9e5cb13dce34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Cybersecurity/Web-Security/3. Web Server Vulnerabilities/202410270031 Web Server Vulnerabilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202410270031 Web Server Vulnerabilities"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,46 +232,46 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f7f3c2dc3c5c433c",
+  "active": "456f9e5cb13dce34",
   "lastOpenFiles": [
+    "06 - Daily/20241119.md",
+    "03 - Resources/Cybersecurity/Web-Security/XSS/Types of XSS/Reflected XSS/202411162002 Reflected XSS.md",
+    "03 - Resources/Cybersecurity/Web-Security/XSS/Exploiting XSS vulnerabilities",
+    "03 - Resources/Cybersecurity/Web-Security/XSS/202411161958 XSS.md",
+    "03 - Resources/Cybersecurity/Web-Security/XSS/Types of XSS/DOM based XSS",
+    "03 - Resources/Cybersecurity/Web-Security/XSS/Types of XSS/Stored XSS",
+    "03 - Resources/Cybersecurity/Web-Security/XSS/Types of XSS/Reflected XSS",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232042 <SQLi> Subverting application logic.md",
+    "03 - Resources/Cybersecurity/Web-Security/3. Web Server Vulnerabilities",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232041 <SQLi> Retrieving hidden data.md",
+    "03 - Resources/Cybersecurity/Offensive/SQL Injection/202410232013 SQL Injection.md",
+    "03 - Resources/Cybersecurity/Web-Security/1. Information Gathering/202410171523 Information Gathering.md",
+    "03 - Resources/Cybersecurity/Web-Security/2. Web Server Enumeration/202410191642 Web Server Enumeration.md",
+    "03 - Resources/Cybersecurity/Web-Security/3. Web Server Vulnerabilities/202410270031 Web Server Vulnerabilities.md",
+    "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management/202411151142 SysV.md",
+    "03 - Resources/Cybersecurity/Web-Security/2. Web Server Enumeration",
+    "03 - Resources/Cybersecurity/Web-Security/1. Information Gathering",
+    "202410301853 WiFi Authentication Types.md",
+    "03 - Resources/Cybersecurity/Web-Security/Untitled.md",
+    "03 - Resources/Cybersecurity/Web-Security/XSS/Types of XSS",
+    "03 - Resources/Cybersecurity/Web-Security/CSRF",
+    "03 - Resources/Cybersecurity/Web-Security/XSS",
+    "Projects.md",
+    "03 - Resources/Linux Fundamentals/System Management/5. Network Services/202411151349 Web Server.md",
+    "03 - Resources/Linux Fundamentals/Workflow/202410242224 Filter Contents.md",
+    "03 - Resources/Strategies and Management/202411142018 Converting Strategy into Actions.md",
+    "06 - Daily/20241116.md",
     "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management/202411151127 systemd.md",
     "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management/202411151130 systemctl.md",
-    "06 - Daily/20241116.md",
-    "03 - Resources/Cybersecurity/Web-Security/Untitled.md",
-    "03 - Resources/Cybersecurity/Web-Security/202410270031 Web Server Vulnerabilities.md",
     "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232044 <SQLi> Blind SQLi.md",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232041 <SQLi> Retrieving hidden data.md",
     "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232043 <SQLi> Union attacks.md",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232042 <SQLi> Subverting application logic.md",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection/202410232013 SQL Injection.md",
-    "03 - Resources/Cybersecurity/Offensive/SQL Injection",
     "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410301455 CIA Triade, Parkerian Hexade, Authenticity and Non-repudiation.md",
     "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410291417 General Cybersecurity Threats, Attacks and State of Art.md",
     "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410211607 Cybersecurity Manager Role.md",
     "03 - Resources/Cybersecurity/Information and Cybersecurity Management/202410201354 Introduction to Cybersec.md",
     "202411081345 Hard and Soft Token.md",
-    "202411081321 Registration Authority.md",
-    "202411030950 Inter-Disciplinary Assessment.md",
-    "03 - Resources/Linux Fundamentals/System Management/202411011750 Package Management.md",
-    "03 - Resources/Linux Fundamentals/System Management/202411011736 User Management.md",
-    "Projects.md",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/12. Intro into OS Hardening/202411151653 Cyber Kill Chain.md",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/12. Intro into OS Hardening/202411151658 MITRE ATT&CK.md",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/12. Intro into OS Hardening",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/12. Intro into OS Hardening/202411151656 Cyber Attack Lifecycle.md",
     "99 - Meta/attachments/Pasted image 20241115165847.png",
     "99 - Meta/attachments/Pasted image 20241115165600.png",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/11. System Hardening/202411151558 System hardening checklist.md",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/11. System Hardening/202411151548 System Hardening.md",
-    "03 - Resources/Linux Fundamentals/System Management/5. Network Services/202411151349 Web Server.md",
-    "03 - Resources/Cybersecurity/Information and Cybersecurity Management/Fundamentals of CS/11. System Hardening",
-    "03 - Resources/Linux Fundamentals/System Management/5. Network Services",
-    "03 - Resources/Linux Fundamentals/System Management/4. Task Scheduling",
-    "03 - Resources/Linux Fundamentals/System Management/1. User Management",
-    "03 - Resources/Linux Fundamentals/System Management/2. Package Management",
-    "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management",
-    "03 - Resources/Strategies and Management",
     "99 - Meta/attachments/Pasted image 20241102152651.png",
     "99 - Meta/attachments/Pasted image 20241102152550.png",
     "99 - Meta/attachments/Pasted image 20241101144822.png",

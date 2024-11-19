@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "202410270031 Web Server Vulnerabilities",
+      "path": "03 - Resources/Cybersecurity/Web-Security/3. Web Server Vulnerabilities/202410270031 Web Server Vulnerabilities.md"
+    },
+    {
+      "basename": "20241119",
+      "path": "06 - Daily/20241119.md"
+    },
+    {
+      "basename": "202411162002 Reflected XSS",
+      "path": "03 - Resources/Cybersecurity/Web-Security/XSS/Types of XSS/Reflected XSS/202411162002 Reflected XSS.md"
+    },
+    {
+      "basename": "202411161958 XSS",
+      "path": "03 - Resources/Cybersecurity/Web-Security/XSS/202411161958 XSS.md"
+    },
+    {
+      "basename": "202410232042 <SQLi> Subverting application logic",
+      "path": "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232042 <SQLi> Subverting application logic.md"
+    },
+    {
+      "basename": "202410232041 <SQLi> Retrieving hidden data",
+      "path": "03 - Resources/Cybersecurity/Offensive/SQL Injection/Examples of SQLi/202410232041 <SQLi> Retrieving hidden data.md"
+    },
+    {
+      "basename": "202410232013 SQL Injection",
+      "path": "03 - Resources/Cybersecurity/Offensive/SQL Injection/202410232013 SQL Injection.md"
+    },
+    {
+      "basename": "202410171523 Information Gathering",
+      "path": "03 - Resources/Cybersecurity/Web-Security/1. Information Gathering/202410171523 Information Gathering.md"
+    },
+    {
+      "basename": "202410191642 Web Server Enumeration",
+      "path": "03 - Resources/Cybersecurity/Web-Security/2. Web Server Enumeration/202410191642 Web Server Enumeration.md"
+    },
+    {
+      "basename": "202411151142 SysV",
+      "path": "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management/202411151142 SysV.md"
+    },
+    {
+      "basename": "202410301853 WiFi Authentication Types",
+      "path": "202410301853 WiFi Authentication Types.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Projects.md"
+    },
+    {
       "basename": "202411151349 Web Server",
       "path": "03 - Resources/Linux Fundamentals/System Management/5. Network Services/202411151349 Web Server.md"
+    },
+    {
+      "basename": "202410242224 Filter Contents",
+      "path": "03 - Resources/Linux Fundamentals/Workflow/202410242224 Filter Contents.md"
+    },
+    {
+      "basename": "202411142018 Converting Strategy into Actions",
+      "path": "03 - Resources/Strategies and Management/202411142018 Converting Strategy into Actions.md"
+    },
+    {
+      "basename": "20241116",
+      "path": "06 - Daily/20241116.md"
     },
     {
       "basename": "202411151127 systemd",
@@ -11,14 +71,6 @@
     {
       "basename": "202411151130 systemctl",
       "path": "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management/202411151130 systemctl.md"
-    },
-    {
-      "basename": "20241116",
-      "path": "06 - Daily/20241116.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Projects.md"
     },
     {
       "basename": "202411151653 Cyber Kill Chain",
@@ -55,14 +107,6 @@
     {
       "basename": "202411151154 Killing a Process",
       "path": "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management/202411151154 Killing a Process.md"
-    },
-    {
-      "basename": "202411151142 SysV",
-      "path": "03 - Resources/Linux Fundamentals/System Management/3. Service and Process Management/202411151142 SysV.md"
-    },
-    {
-      "basename": "202411142018 Converting Strategy into Actions",
-      "path": "03 - Resources/Strategies and Management/202411142018 Converting Strategy into Actions.md"
     },
     {
       "basename": "202411081345 Hard and Soft Token",
